@@ -1,5 +1,5 @@
 # OnsetDetection
-This repo includes the code base for a onset detection challenge by the CP
+This repo includes the code base for a onset detection challenge by the CP. Our approach is based on using a CNN which takes as input a mel spectogram and returns the onsets.
 
 ## Installation
 1. Clone the repo
